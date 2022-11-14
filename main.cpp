@@ -12,7 +12,7 @@ int main() {
       z=(a*x*x)-(b*y);
       
    } else{
-      z=(a*x)-(b*y*y);
+      z=(a*x)+(b*y*y);
    }
    cout << z << endl;
    return 0;
